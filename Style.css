@@ -140,7 +140,7 @@ button.no-stroke-img-button {
     display: inline-flex;
     justify-content: center;
     align-items: center;
-    gap: 6px;
+    gap: 6.05px;
     background-color: transparent;
     border: 0;
     cursor: pointer;
