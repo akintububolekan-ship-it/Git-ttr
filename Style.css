@@ -28,7 +28,7 @@ body{
     align-items: center;
     justify-content: center;
     padding-top: 24px;
-    gap: 0px;
+    gap: 0.1px;
 }
 
 .text-area{
